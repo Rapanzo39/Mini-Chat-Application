@@ -23,15 +23,6 @@ This project allows users to create, edit, view, and delete chats with a clean W
 - CSS
 - Method-Override
 
-## Project Structure
-
-mini-whatsapp-clone/
-│── models/
-│── views/
-│── public/
-│── app.js
-│── package.json
-
 ## Installation
 
 1. Clone the repository
