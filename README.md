@@ -69,8 +69,17 @@ Through this project, I learned:
 - Better UI animations
 - Mobile responsiveness
 
-## Author
 
-Kaushalya Shahapure
+## Screenshots
 
-GitHub: https://github.com/Rapanzo39
+### All Chats Page
+![All Chats](screenshots/all-chats.png)
+
+### Send New Chat
+![Send Chat](screenshots/send-chat.png)
+
+### Edit Chat
+![Edit Chat](screenshots/edit.png)
+
+### Delete Confirmation Popup
+![Delete Popup](screenshots/pop-up.png)
