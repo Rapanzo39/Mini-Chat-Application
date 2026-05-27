@@ -73,13 +73,13 @@ Through this project, I learned:
 ## Screenshots
 
 ### All Chats Page
-![All Chats](./screenshots/all-chats.png)
+![All Chats](./scrrenshots/all-chats.png)
 
 ### Send New Chat
-![Send Chat](./screenshots/send-chat.png)
+![Send Chat](./scrrenshots/send-chat.png)
 
 ### Edit Chat
-![Edit Chat](./screenshots/edit.png)
+![Edit Chat](./scrrenshots/edit.png)
 
 ### Delete Confirmation Popup
-![Delete Popup](./screenshots/pop-up.png)
+![Delete Popup](./scrrenshots/pop-up.png)
